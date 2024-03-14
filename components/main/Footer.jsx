@@ -6,7 +6,7 @@ import {
 	RxTwitterLogo,
 	RxLinkedinLogo,
 } from "react-icons/rx";
-
+import Link from "next/link";
 import { FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
@@ -19,13 +19,17 @@ const Footer = () => {
 
 						<p className="flex flex-row items-center my-[15px] cursor-pointer">
 							<RxGithubLogo />
-							<span className="text-[15px] ml-[6px]">Github</span>
+							<Link href={"https://github.com/taherbadri"}>
+								<span className="text-[15px] ml-[6px]">Github</span>
+							</Link>
 						</p>
 					</div>
 					<div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
 						<p className="flex flex-row items-center my-[15px] cursor-pointer">
 							<RxLinkedinLogo />
-							<span className="text-[15px] ml-[6px]">Linkedin</span>
+							<Link href={"https://www.linkedin.com/in/taherbadri"}>
+								<span className="text-[15px] ml-[6px]">LinkedIn</span>
+							</Link>
 						</p>
 					</div>
 					<div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
