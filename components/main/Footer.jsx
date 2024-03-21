@@ -19,17 +19,17 @@ const Footer = () => {
 
 						<p className="flex flex-row items-center my-[15px] cursor-pointer">
 							<RxGithubLogo />
-							<Link href={"https://github.com/taherbadri"}>
+							<a href={"https://github.com/taherbadri"}>
 								<span className="text-[15px] ml-[6px]">Github</span>
-							</Link>
+							</a>
 						</p>
 					</div>
 					<div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
 						<p className="flex flex-row items-center my-[15px] cursor-pointer">
 							<RxLinkedinLogo />
-							<Link href={"https://www.linkedin.com/in/taherbadri"}>
+							<a href={"https://www.linkedin.com/in/taherbadri"}>
 								<span className="text-[15px] ml-[6px]">LinkedIn</span>
-							</Link>
+							</a>
 						</p>
 					</div>
 					<div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
