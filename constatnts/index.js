@@ -266,7 +266,7 @@ export const projects = [
 		href: "https://showoff-media-production.vercel.app/",
 		src: "/Showoff.png",
 		description:
-			"Step into the world of Showoff Media Production and experience the art of visual storytelling. Collaborating closely, we transformed visions into reality through compelling narratives and stunning visuals. From corporate videos to dynamic commercials and engaging social media content, every frame captivates and leaves a lasting impression. Our dedication to excellence and innovative approach shines through in every project, elevating brands and captivating audiences. Explore our showcase and discover the magic of Showoff Media Production—where creativity, innovation, and expertise converge to make every moment unforgettable. Join us in crafting visual masterpieces that showcase the essence of your brand.",
+			"Leveraging React, Vite, and Tailwind CSS with DaisyUI, I meticulously crafted the website's layout for seamless responsiveness. Implementing React Masonry, I ensured dynamic content sections flowed seamlessly, enhancing user engagement. From concept to execution, every detail reflects Showoff Media Production's commitment to visual excellence and innovation.",
 		title: "Showoff Media Production Showcase: Crafting Visual Masterpieces",
 	},
 ];
