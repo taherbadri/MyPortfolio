@@ -263,10 +263,10 @@ export const projects = [
 			"A robust client management application developed for FMB, a non-profit organization. Built using Node.js, Express.js, MongoDB, and EJS, it offers secure authentication and streamlined client review processes. With QR code scanning functionality, it simplifies attendance tracking and enhances data management capabilities. Experience seamless client interaction and efficient workflow management.",
 	},
 	{
-		href: "https://taherbadri.github.io/Shopping-List.io/",
-		src: "/Shopping list.png",
+		href: "https://showoff-media-production.vercel.app/",
+		src: "/Showoff.png",
 		description:
-			'"Smart Shopping List Manager" is a user-friendly web app for organizing shopping lists. Users can effortlessly add, edit, and delete items, with options for bulk clearing and efficient filtering. Built with HTML, CSS, and JavaScript, it ensures a seamless experience, while the LocalStorage API preserves list data across sessions. The interface, styled possibly with Bootstrap and Font Awesome, prioritizes simplicity and functionality. With dynamic DOM manipulation, users can interact fluidly, enhancing productivity in managing shopping tasks.',
-		title: "Smart Shopping List Manager",
+			"Step into the world of Showoff Media Production and experience the art of visual storytelling. Collaborating closely, we transformed visions into reality through compelling narratives and stunning visuals. From corporate videos to dynamic commercials and engaging social media content, every frame captivates and leaves a lasting impression. Our dedication to excellence and innovative approach shines through in every project, elevating brands and captivating audiences. Explore our showcase and discover the magic of Showoff Media Production—where creativity, innovation, and expertise converge to make every moment unforgettable. Join us in crafting visual masterpieces that showcase the essence of your brand.",
+		title: "Showoff Media Production Showcase: Crafting Visual Masterpieces",
 	},
 ];

@@ -5,7 +5,7 @@ import React from "react";
 const ProjectCard = ({ src, title, description, href }) => {
 	return (
 		<div className="relative overflow-hidden rounded-lg shadow-lg border cursor-pointer border-[#2A0E61] h-full">
-			<a href={href}>
+			<a href={href} target="_blank">
 				<Image
 					src={src}
 					alt={title}
