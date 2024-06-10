@@ -10,11 +10,12 @@ const ProjectCard = ({ src, title, description, href }) => {
 				style={{ border: "none" }} // Optional: removes default iframe border
 			/>
 
-			<div className="relative flex flex-col items-center p-4">
+			<div className="relative flex flex-col items-center p-4 tracking-wide">
 				<h1 className="text-xl md:text-2xl font-semibold text-white">
 					{title}
 				</h1>
-				<p className="mt-2 text-gray-300">{description}</p>
+				<h2 className="mt-2 text-white text-justify w-full">{href}</h2>
+				<p className="mt-2 text-justify text-gray-300">{description}</p>
 			</div>
 		</div>
 	);
